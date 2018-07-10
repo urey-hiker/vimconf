@@ -146,4 +146,4 @@ Plug '~/my-prototype-plugin'
 " Initialize plugin system
 call plug#end()
 
-color dracula
+color default
